@@ -16,7 +16,7 @@ curl -sS https://getcomposer.org/installer | php
 Then, run the Composer command to install the latest version:
 
 ```bash
-composer.phar require jenkins-khan/jenkins-api
+composer require c24-toys/jenkins-api
 ```
 
 
@@ -102,3 +102,5 @@ Coding standards
 ----------------
 
 This projects follows PSR-0, PSR-1, PSR-2, PSR-4
+
+Forked from https://github.com/jenkins-khan/jenkins-php-api

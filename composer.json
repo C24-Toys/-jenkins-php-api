@@ -1,5 +1,5 @@
 {
-  "name": "taxaos/jenkins-api",
+  "name": "c24-toys/jenkins-api",
   "type": "library",
   "description": "Jenkins PHP API",
   "keywords": ["jenkins", "api"],
